@@ -1,0 +1,43 @@
+PHP (HyperText Pre-processor) is a server-side programming language that will run on the server. A server is a 
+machine that will store all of your files and information.
+ After you save your files on the server, you can access and manage them for your needs. 
+
+There is also a reason why you should use index.php and not index.html. The ending .php 
+indicates that your files store PHP code. This way the interpreter will understand that
+ it has to check the PHP part of the code before delivering it.
+
+Keep in mind, that during this course, you will have to use both PHP and HTML programming languages.
+
+HTML (HyperText Markup Language) is one of the basic languages that will allow you to build amazing 
+websites. It is relatively easy to learn and is one of the most known programming languages.
+
+However, you’ll also have the style.css tab available to you. This tab requires for you to 
+write CSS code. The main function of CSS is to style your document and make it look neat! We do not emphasize CSS during this course, so it is OK if you are not familiar with it.
+
+If you are completely new to coding, it would be very useful in this course if you checked 
+out our gamified course called SpaceDoggos 2, where you can get familiar with CSS and HTML.
+
+SYNTAX:
+<?php
+    // Your code goes below inside of quotes
+      
+?>
+
+1. <p>
+        <?php
+        // Your code goes below inside of quotes
+        ?>
+    </p>
+
+2. <body>
+    <?php
+        // Your code goes below inside of quotes
+    ?>
+    //Start HTML
+        <h1>Heading</h1>
+	</body>
+
+3.Dot(.) is the concatenation operator used to combine several strings. This is how you use it:
+
+    echo "<br> Welcome" . " " . "to the Spaceship" . "!";
+      

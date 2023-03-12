@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap");
+/* My colors */
+body {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+h1 {
+  font-size: 28px;
+  color: #2F2FA2;
+}
+
+.phptag {
+  font-size: 24px;
+  color: #99738E;
+}/*# sourceMappingURL=styles.css.map */
