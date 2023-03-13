@@ -4,9 +4,24 @@ body {
   font-family: "Space Grotesk", sans-serif;
 }
 
+/* Selects the second li element in a list */
+li:nth-child(2) {
+  background: lightgreen;
+}
+
+/* Selects every third element among any group of siblings */
+:nth-child(3) {
+  background: yellow;
+}
+
 h1 {
   font-size: 28px;
   color: #2F2FA2;
+}
+
+h4 {
+  color: #8EE4AF;
+  font-size: 20px;
 }
 
 .phptag {
